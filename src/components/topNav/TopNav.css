@@ -1,0 +1,15 @@
+.btn-appointment {
+    color: #FF3811;
+    border: 3px solid #FF3811;
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+.btn-appointment:hover {
+    color: #FF3811;
+    border: 3px solid #FF3811;
+}
+
+.active{
+    border-bottom: 2px solid #FF3811;
+}
